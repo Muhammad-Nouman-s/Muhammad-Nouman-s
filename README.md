@@ -11,7 +11,3 @@ I work on reliable sensing, localization and security for connected autonomous s
 - [Artificial-intelligence-and-Machine-Learning](https://github.com/Muhammad-Nouman-s/Artificial-intelligence-and-Machine-Learning): KNN hyperparameter study for IoT intrusion detection on the TON_IoT dataset
 
 **Tools:** Python, PyTorch, scikit-learn, XGBoost, LightGBM, pandas, Jupyter, MQTT, BlueZ, Linux, LaTeX
-
-### Contact
-
-[muhammad-nouman-s.github.io](https://muhammad-nouman-s.github.io/)
