@@ -6,10 +6,11 @@ I work on reliable sensing, localization and security for connected autonomous s
 
 ### Projects on GitHub
 
+- [HGB-IoT-Attack-Detection](https://github.com/Muhammad-Nouman-s/HGB-IoT-Attack-Detection): code for the IFIP WMNC 2025 paper on Histogram Gradient Boosting for attack detection in IoT networks (CICIoT2023)
 - [Bluetoothctl-MQTT-Device-Analytics](https://github.com/Muhammad-Nouman-s/Bluetoothctl-MQTT-Device-Analytics): offline analysis of BLE scan data collected over MQTT (presence sessions, iBeacon identifiers, RSSI proximity and movement)
 - [Artificial-intelligence-and-Machine-Learning](https://github.com/Muhammad-Nouman-s/Artificial-intelligence-and-Machine-Learning): KNN hyperparameter study for IoT intrusion detection on the TON_IoT dataset
 
-**Tools:** Python, PyTorch, scikit-learn, pandas, Jupyter, MQTT, BlueZ, Linux, LaTeX
+**Tools:** Python, PyTorch, scikit-learn, XGBoost, LightGBM, pandas, Jupyter, MQTT, BlueZ, Linux, LaTeX
 
 ### Contact
 
