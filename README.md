@@ -14,4 +14,4 @@ I work on reliable sensing, localization and security for connected autonomous s
 
 ### Contact
 
-m.nouman@phd.poliba.it · [Website](https://muhammad-nouman-s.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=ebfBz34AAAAJ) · [ORCID](https://orcid.org/0000-0003-4233-5506) · [ResearchGate](https://www.researchgate.net/profile/Muhammad-Nouman-40) · [LinkedIn](https://www.linkedin.com/in/muhammadnoumanml)
+[muhammad-nouman-s.github.io](https://muhammad-nouman-s.github.io/)
