@@ -1,4 +1,4 @@
-### Hi, I'm Muhammad Nouman
+### Muhammad Nouman
 
 I am a PhD researcher in Autonomous Systems at the Telematics Lab (DEI), Politecnico di Bari, Italy, affiliated with CNIT. I work on reliable sensing, localization and security for connected autonomous systems.
 
